@@ -1,0 +1,34 @@
+C:\Users\chacr\Desktop\c#\WinFormsApp4\bin\Debug\net7.0-windows\WinFormsApp4.exe
+C:\Users\chacr\Desktop\c#\WinFormsApp4\bin\Debug\net7.0-windows\WinFormsApp4.deps.json
+C:\Users\chacr\Desktop\c#\WinFormsApp4\bin\Debug\net7.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\chacr\Desktop\c#\WinFormsApp4\bin\Debug\net7.0-windows\WinFormsApp4.dll
+C:\Users\chacr\Desktop\c#\WinFormsApp4\bin\Debug\net7.0-windows\WinFormsApp4.pdb
+C:\Users\chacr\Desktop\c#\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\chacr\Desktop\c#\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.Form1.resources
+C:\Users\chacr\Desktop\c#\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\chacr\Desktop\c#\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chacr\Desktop\c#\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\chacr\Desktop\c#\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\chacr\Desktop\c#\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\chacr\Desktop\c#\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.dll
+C:\Users\chacr\Desktop\c#\WinFormsApp4\obj\Debug\net7.0-windows\refint\WinFormsApp4.dll
+C:\Users\chacr\Desktop\c#\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.pdb
+C:\Users\chacr\Desktop\c#\WinFormsApp4\obj\Debug\net7.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\chacr\Desktop\c#\WinFormsApp4\obj\Debug\net7.0-windows\ref\WinFormsApp4.dll
+E:\VS Proj\WinformApp4\bin\Debug\net7.0-windows\WinFormsApp4.exe
+E:\VS Proj\WinformApp4\bin\Debug\net7.0-windows\WinFormsApp4.deps.json
+E:\VS Proj\WinformApp4\bin\Debug\net7.0-windows\WinFormsApp4.runtimeconfig.json
+E:\VS Proj\WinformApp4\bin\Debug\net7.0-windows\WinFormsApp4.dll
+E:\VS Proj\WinformApp4\bin\Debug\net7.0-windows\WinFormsApp4.pdb
+E:\VS Proj\WinformApp4\obj\Debug\net7.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+E:\VS Proj\WinformApp4\obj\Debug\net7.0-windows\WinFormsApp4.Form1.resources
+E:\VS Proj\WinformApp4\obj\Debug\net7.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+E:\VS Proj\WinformApp4\obj\Debug\net7.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Proj\WinformApp4\obj\Debug\net7.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+E:\VS Proj\WinformApp4\obj\Debug\net7.0-windows\WinFormsApp4.AssemblyInfo.cs
+E:\VS Proj\WinformApp4\obj\Debug\net7.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+E:\VS Proj\WinformApp4\obj\Debug\net7.0-windows\WinFormsApp4.dll
+E:\VS Proj\WinformApp4\obj\Debug\net7.0-windows\refint\WinFormsApp4.dll
+E:\VS Proj\WinformApp4\obj\Debug\net7.0-windows\WinFormsApp4.pdb
+E:\VS Proj\WinformApp4\obj\Debug\net7.0-windows\WinFormsApp4.genruntimeconfig.cache
+E:\VS Proj\WinformApp4\obj\Debug\net7.0-windows\ref\WinFormsApp4.dll
